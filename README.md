@@ -2,8 +2,12 @@
 
 
 
-
-
+# AT bk8000l
+```
+AT+CE - answer
+AT+CF - reject
+AT+CG - hang up
+```
 
 # usefull links
 
